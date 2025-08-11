@@ -1,4 +1,4 @@
-package org.shehan.ry;
+package org.shehan.ry.singleton;
 
 public class Main {
 
